@@ -1,0 +1,25 @@
+{
+  "blackHole:Reduced_Gravity_Power": {
+    "NAME": "Reduced Gravity",
+    "DESCRIPTIONS":[
+      "Doubles The Power Of All Pull Effects On This Target"
+    ]
+  },
+  "blackHole:Gravitational_Strikes_Power": {
+    "NAME": "Gravitational Strikes",
+    "DESCRIPTIONS": [
+      "All Strikes Pull Enemies By 50 Units"
+    ]
+  },
+  "blackHole:Gravitational_Pull_Power": {
+    "NAME": "Gravitational Pull",
+    "DESCRIPTIONS": [
+      "Enemy is currently ",
+      "% away from event horizon",
+      "Enemy is currently ",
+      "% away from Gravity Orb evoke range",
+      "Enemy is in event horizon",
+      "Enemy is in Gravity Orb evoke range"
+    ]
+  }
+}

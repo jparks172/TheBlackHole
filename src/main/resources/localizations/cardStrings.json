@@ -1,0 +1,50 @@
+{
+  "blackHole:Strike_Blk": {
+    "NAME": "Strike",
+    "DESCRIPTION": "DEAL !D! damage."
+  },
+  "blackHole:Defend_Blk": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B!"
+  },
+  "blackHole:GetOverHere": {
+    "NAME": "Get Over Here",
+    "DESCRIPTION": "Deal !D! Damage and Pull Enemy Into Gravity Orb Range If Used On Boss Pulls Boss 100 Units Forward"
+  },
+  "blackHole:HarnessGravity":{
+    "NAME": "Harness Gravity",
+    "DESCRIPTION": "Gain !B! and Channel One Gravity Orb"
+},
+  "blackHole:SolarWind":{
+    "NAME": "Solar Wind",
+    "DESCRIPTION": "Deal !D! To Target Enemy And !D! Damage To The Enemy Behind It As Well As Stunning It for !M! Turn"
+  },
+  "blackHole:ChannelGravity":{
+    "NAME": "Channel Gravity",
+    "DESCRIPTION": "Channel 1 Gravity Orb"
+  },
+  "blackHole:Implosion":{
+    "NAME": "Implosion",
+    "DESCRIPTION": "Pull Enemies !M! Then Evoke 1 Gravity Orb"
+  },
+  "blackHole:Dimensional_Rift": {
+    "NAME": "Dimensional Rift",
+    "DESCRIPTION": "If Enemy Is Within 350 Units Deal !D! + 15 Otherwise Deal !D! Damage"
+  },
+  "blackHole:Meteor_Strike": {
+    "NAME": "Meteor Strike",
+    "DESCRIPTION": "Deal !D! Damage To All Enemies Twice If Enemies Are In Gravity Orb Range Deal !M! Damage"
+  },
+  "blackHole:Vacuum_Seal": {
+    "NAME": "Vacuum Seal",
+    "DESCRIPTION": "Deal !D! Damage And Apply !M! Reduced Gravity To Enemy"
+},
+  "blackHole:Eternium_Maw":{
+    "NAME": "Eternium Maw",
+    "DESCRIPTION": "Pull All Enemies Into Engulf Range"
+  },
+  "blackHole:Gravitational_Strikes": {
+    "NAME": "Gravitational Strikes",
+    "DESCRIPTION": "All Strikes Pull"
+  }
+}

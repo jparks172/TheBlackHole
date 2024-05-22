@@ -1,0 +1,10 @@
+{
+  "modid": "TheBlackHole",
+  "name": "Black Hole",
+  "author_list": ["JP"],
+  "descripton": "Movement Based STS Character",
+  "version": "1.0",
+  "sts_version": "01-27-2019",
+  "mts_version": "3.8.3",
+  "dependencies": ["basemod"]
+}

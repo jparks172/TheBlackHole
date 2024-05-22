@@ -1,0 +1,14 @@
+//package Actions;
+//
+//import com.megacrit.cardcrawl.actions.AbstractGameAction;
+//
+//public class PullMonsterAction extends AbstractGameAction {
+//    MonsterPullHandler monsterPullHandler;
+//    public PullMonsterAction(MonsterPullHandler monsterPullHandler, ){
+//        this.monsterPullHandler = monsterPullHandler;
+//    }
+//    @Override
+//    public void update() {
+//        monsterPullHandler.pullMonster( ,this.amount);
+//    }
+//}

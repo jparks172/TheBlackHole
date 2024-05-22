@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r11">
+    <folder id="0">
+        <file id="0" name="Black Hole Sticker.png" width="500" height="333" pivot_x="0.5" pivot_y="0.5"/>
+    </folder>
+    <entity id="0" name="Black Hole">
+        <animation id="0" name="NewAnimation" length="1000" interval="100">
+            <mainline>
+                <key id="0"/>
+            </mainline>
+        </animation>
+    </entity>
+</spriter_data>

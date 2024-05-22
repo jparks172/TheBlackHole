@@ -1,0 +1,14 @@
+{
+  "blackHole:Gravity_Orb": {
+    "NAME": "Gravity Orb",
+    "DESCRIPTION": ["Passive: Pull Random Enemy ",
+      " Units Closer To You",
+      " Evoke: Deal ",
+      " To All Enemies Within ",
+      " Units of Distance From You"]
+  },
+  "blackHole:Light_Orb": {
+    "NAME": "Light Orb",
+    "DESCRIPTION": ["WHAT DIS DO"]
+  }
+}

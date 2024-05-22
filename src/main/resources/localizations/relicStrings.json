@@ -1,0 +1,12 @@
+{
+  "blackHole:Gravitational Pull": {
+    "NAME": "Gravitational Pull",
+    "FLAVOR": "Does What You Think It Does",
+    "DESCRIPTIONS": [
+      "Pull All Enemies ",
+      " Units Every Turn.",
+      " If Enemies Within ",
+      " Units Of You Deal 1/2 Current HP As Damage Then Spit Monster Out"
+    ]
+}
+}
